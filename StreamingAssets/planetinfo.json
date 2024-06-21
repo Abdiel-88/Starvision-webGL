@@ -1,0 +1,59 @@
+ {
+ "planets": [
+        {
+            "Id": 1,
+            "Name": "Mercury",
+            "Biography": "Mercury, the smallest planet in our solar system and the one closest to the Sun, boasts an extreme environment. With a rotation period of 1407.5 hours, Mercury experiences long days and nights. Its swift orbital speed of 47.87 km/s allows it to complete a revolution around the Sun in just 88 Earth days. Located 57.9 million kilometers from the Sun, Mercury'sproximity contributes to its extreme temperature variations, reaching up to 340 K (67 \u00b0C) during the day and plummeting to -173 \u00b0C at night. This rocky planet has a radius of 2439.7 kilometers and a mass of 0.330 \u00d7 10^24 kg, resulting in a surface gravity of 3.7 m/s\u00b2. Mercury's barren landscape, marked by craters and ridges, provides a glimpse into the early history of our solar system."
+        },
+        {
+            "Id": 2,
+            "Name": "Venus",
+            "Biography": "Venus, the second planet from the Solar System, is renowned for its scorching temperatures and thick toxic atmosphere. With a rotation period of 5832.5 hours, Venus has an extremely slow and retrograde rotation, meaning it rotates in the opposite direction to most planets in our solar system. Its orbital speed is 35.02 km/s, and it orbits the Sun at an average distance of 108.2 million kilometers. The planet's dense atmosphere, composed mainly of carbon dioxide, traps heat and creates surface temperatures that average around 737 K (464 \u00b0C). Venus has a radius of 6051.8 kilometers and a mass of 4.87 \u00d7 10^24 kg, resulting in a surface gravity of 8.87 m/s\u00b2. Often called Earth's \"sister planet\" due to its similar size and composition, Venus presents a stark contrast with its uninhabitable conditions, marked by thick clouds of sulfuric acid and surface pressures 92 times greater than Earth's."
+        },
+        {
+            "Id": 3,
+            "Name": "Earth",
+            "Biography": "Earth, the third planet from the Solar System, is the only astronomical object known to harbor life. With a rotation period of 23.93 hours, Earth experiences a day-night cycle that supports its diverse ecosystems. It orbits the Sun at an average speed of 29.78 km/s, maintaining a distance of approximately 149.6 million kilometers. Earth's radius is 6371 kilometers, and its mass is 5.97 \u00d7 10^24 kg, resulting in a surface gravity of 9.8 m/s\u00b2. The planet's atmosphere, primarily composed of nitrogen and oxygen, supports life and protects it from harmful solar radiation. Earth's average surface temperature is 288 K (15 \u00b0C), making it hospitable for a wide range of flora and fauna. This \"Blue Planet\" is characterized by its vast oceans, landmasses, and a complex climate system that sustains life in various forms."
+        },
+        {
+            "Id": 4,
+            "Name": "Mars",
+            "Biography": "Mars, the fourth planet from the Solar System, is often referred to as the \"Red Planet\" due to its reddish appearance, which is a result of iron oxide on its surface. With a rotation period of 24.6 hours, Mars has a day length similar to Earth\u2019s. It orbits the Sun at an average speed of 24.077 km/s, maintaining a distance of 227.9 million kilometers. Mars has a radius of 3389.5 kilometers and a mass of 0.64171 \u00d7 10^24 kg, resulting in a surface gravity of 3.72076 m/s\u00b2. The planet's thin atmosphere, composed mainly of carbon dioxide, cannot support human life without assistance. Mars' average surface temperature is 210 K (-63 \u00b0C), and it is home to the largest volcano and the deepest canyon in the solar system. Mars has captivated human interest for centuries, with ongoing exploration missions seeking to uncover its past potential for life and future possibilities for human habitation."
+        },
+        {
+            "Id": 5,
+            "Name": "Jupiter",
+            "Biography": "Jupiter, the fifth planet from the Solar System, is the largest planet in our solar system and is known for its massive size and prominent atmospheric features. With a rotation period of just 9.93 hours, Jupiter has the shortest day of all the planets. It orbits the Sun at an average speed of 13.07 km/s, maintaining a distance of 778.5 million kilometers. Jupiter has a staggering radius of 69911 kilometers and a mass of 1898 \u00d7 10^24 kg, resulting in an intense surface gravity of 24.79 m/s\u00b2. The planet is famous for its Great Red Spot, a gigantic storm larger than Earth that has been raging for centuries. Jupiter's atmosphere is primarily composed of hydrogen and helium, and it has over 79 moons, including the four largest\u2014Io, Europa, Ganymede, and Callisto\u2014known as the Galilean moons. Jupiter's immense magnetic field and its system of faint rings add to its complexity and grandeur, making it a fascinating subject of study in the field of planetary science."
+        },
+        {
+            "Id": 6,
+            "Name": "Saturn",
+            "Biography": "Saturn, the sixth planet from the Solar System, is best known for its magnificent ring system, which is the most extensive and complex in the solar system. With a rotation period of 10.7 hours, Saturn has one of the shortest days among the planets. It orbits the Sun at an average speed of 9.69 km/s, maintaining a distance of 1.43 billion kilometers. Saturn has a radius of 58232 kilometers and a mass of 568 \u00d7 10^24 kg, resulting in a surface gravity of 10.44 m/s\u00b2. The planet's atmosphere is primarily composed of hydrogen and helium, similar to Jupiter. Saturn's rings are made up of countless small particles of ice and rock, ranging in size from micrometers to meters. Saturn also boasts a vast array of moons, with Titan being the largest and second-largest moon in the solar system. Titan has a thick atmosphere and liquid methane lakes, making it a subject of great interest for scientists. Saturn's unique features and its impressive system of rings and moons make it a captivating object of study in astronomy."
+        },
+        {
+            "Id": 7,
+            "Name": "Uranus",
+            "Biography": "Uranus, the seventh planet from the Solar System, stands out with its unique sideways rotation and its striking blue-green color, which is due to the presence of methane in its atmosphere. With a rotation period of 17.24 hours, Uranus has a day that is shorter than Earth's. It orbits the Sun at an average speed of 6.81 km/s, maintaining a distance of 2.87 billion kilometers. Uranus has a radius of 25362 kilometers and a mass of 86.8 \u00d7 10^24 kg, resulting in a surface gravity of 8.69 m/s\u00b2. Its atmosphere, composed primarily of hydrogen and helium with a trace amount of methane, gives it a distinct hue. Uranus' axial tilt of about 98 degrees causes extreme seasonal variations, with each pole getting around 42 years of continuous sunlight followed by 42 years of darkness. The planet is surrounded by a faint ring system and has 27 known moons, with Titania and Oberon being the largest. Uranus' peculiar characteristics and its significant tilt make it an intriguing subject for astronomers and planetary scientists."
+        },
+        {
+            "Id": 8,
+            "Name": "Neptune",
+            "Biography": "Neptune, the eighth and farthest planet from the Sun in our solar system, is renowned for its deep blue color and dynamic atmosphere. With a rotation period of 16.11 hours, Neptune experiences relatively short days. It orbits the Sun at an average speed of 5.43 km/s, maintaining a distance of 4.50 billion kilometers. Neptune has a radius of 24622 kilometers and a mass of 102 \u00d7 10^24 kg, resulting in a surface gravity of 11.15 m/s\u00b2. The planet's vibrant blue color is due to the presence of methane in its atmosphere, which absorbs red light and reflects blue light. Neptune's atmosphere is marked by high-speed winds, some of the fastest in the solar system, reaching up to 2,100 kilometers per hour. The planet is also known for its large storm systems, including the Great Dark Spot, a storm comparable to Jupiter's Great Red Spot. Neptune has 14 known moons, with Triton being the largest, notable for its retrograde orbit and geysers of nitrogen ice. Neptune's extreme conditions and distant location make it a fascinating subject for scientific exploration and study."
+        },
+        {
+            "Id": 9,
+            "Name": "Pluto",
+            "Biography": "Pluto, once considered the ninth planet in our solar system, is now classified as a dwarf planet. It is located in the Kuiper Belt, a region of the solar system beyond Neptune filled with small icy bodies. With a rotation period of 153.3 hours, Pluto has a very slow day compared to Earth. It orbits the Sun at an average speed of 4.74 km/s, maintaining a distance of 5.91 billion kilometers. Pluto has a radius of 1188.3 kilometers and a mass of 0.0130 \u00d7 10^24 kg, resulting in a surface gravity of 0.62 m/s\u00b2. Its surface is composed of a mixture of nitrogen, methane, and carbon monoxide ices, giving it a bright, reflective surface with varying colors and textures. Pluto's average surface temperature is 44 K (-229 \u00b0C), making it one of the coldest places in the solar system. It has five known moons, with Charon being the largest, roughly half the size of Pluto itself. Pluto's unique characteristics and its reclassification continue to intrigue and challenge our understanding of the solar system."
+        },
+        {
+            "Id": 10,
+            "Name": "Moon",
+            "Biography": "The Moon, Earth's only natural satellite, plays a vital role in our planet's natural processes, including tides and the stabilization of Earth's axial tilt. With a rotation period of 655.7 hours, the Moon exhibits synchronous rotation, meaning the same side always faces Earth. It orbits Earth at an average speed of 1.022 km/s, maintaining a distance of 384,400 kilometers. The Moon has a radius of 1737.4 kilometers and a mass of 0.07346 \u00d7 10^24 kg, resulting in a surface gravity of 1.62 m/s\u00b2. Its surface is characterized by vast plains, craters, and mountain ranges, with temperatures varying from 220 K (-53 \u00b0C) at night to 390 K (117 \u00b0C) during the day. The Moon has been a focal point for human exploration, symbolized by the Apollo missions that first landed astronauts on its surface in 1969. Its influence on Earth and its role in human history and culture make it an object of enduring fascination and study."
+        },
+        {
+            "Id": 11,
+            "Name": "Sun",
+            "Biography": "The Sun, the star at the center of our solar system, is the most important source of energy for life on Earth. With a rotation period of approximately 609.12 hours at the equator, the Sun's rotation varies due to its gaseous nature, with the poles rotating more slowly. It travels through space at an average speed of 220 km/s within the Milky Way galaxy. The Sun is located about 0 km from the center of the solar system, as it is the central anchor around which all planets orbit. It has a radius of 696,340 kilometers and an immense mass of 1.989 \u00d7 10^30 kg, resulting in a surface gravity of 274 m/s\u00b2. The Sun's surface temperature is around 5778 K, producing light and heat through nuclear fusion processes in its core. This fusion converts hydrogen into helium, releasing energy that radiates outwards and sustains life on Earth. The Sun's immense energy output and its influence on the solar system's structure make it a vital object of study in astronomy and astrophysics."
+        }
+    ]
+ }
